@@ -1,0 +1,75 @@
+04/14/2022 
+Start: 12:00 
+End: 1:43
+
+- Conceptualize
+    - Landing page 
+        - If My Courses is Empty
+    - My Courses (View only)
+    - Course Detail 
+    - Administration 
+        - View 
+            - Same view with My Courses
+            - with buttons:
+                - Add (Header)
+                - Update (each card/row)
+                - Delete (each card/row)
+        - Update 
+            - Same view with Course Detail
+            - Details are editable
+            - Has Delete button
+
+- Mock-up in XD (UI)
+    Notes:
+        E-learning
+        Your study buddy
+        Organize e-materials
+        Customize e-materials
+
+04/14/2022
+Start: 11:37
+End: 1:08
+
+- backend design
+    - create API 
+        - fetch all data
+    - tables (Create table)
+        - courses
+            - fcourseid
+            - fcourse_title
+            - fcourse_memo
+            - fauthor
+            - fcreated_date
+            - fupdated_date
+
+- front-End
+    - Navbar design
+
+
+04/15/2022
+Start: 9:40
+End: 12:57
+
+- front-End
+    - add content body
+    - done Landing
+    - placeholder for courses list (cards)
+    - pages now routed per module
+
+04/17/2022
+Start: 3:30
+End: 5:30
+- front-end
+    - communication with backend
+    - buttons
+
+Start: 10:30
+End: 2:00
+
+- front-end 
+    - refactoring base code
+    - add interface for adding new course 
+
+
+04/18/2022
+Start: 2:20
