@@ -1,6 +1,7 @@
 04/14/2022 
 Start: 12:00 
 End: 1:43
+1.75
 
 - Conceptualize
     - Landing page 
@@ -29,6 +30,7 @@ End: 1:43
 04/14/2022
 Start: 11:37
 End: 1:08
+1.5
 
 - backend design
     - create API 
@@ -49,7 +51,7 @@ End: 1:08
 04/15/2022
 Start: 9:40
 End: 12:57
-
+3
 - front-End
     - add content body
     - done Landing
@@ -59,22 +61,38 @@ End: 12:57
 04/17/2022
 Start: 3:30
 End: 5:30
+2
 - front-end
     - communication with backend
     - buttons
 
 Start: 10:30
 End: 2:00
-
+3.5
 - front-end 
-    - refactoring base code
+    - refactoring code
     - add interface for adding new course 
 
 
 04/18/2022
 Start: 2:20
 End: 5:00
+2.75
+- update javascript
+- backend (create, update, delete)
 
 Start: 11:30
 End: 5:08 (04/19)
+5.5
 - finalize
+
+Total MH
+1.75
+1.5
+3
+2
+3.5
+2.75
+5.5
+========
+20 MH
